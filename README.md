@@ -11,6 +11,44 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+# 📊 E-Commerce Dashboard
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🏪 About The Project
+
+This is a **modern E-commerce Admin Dashboard** built with React.  
+It provides an overview of key business metrics like revenue, orders, users, and products in a clean UI.
+
+---
+
+## ✨ Features
+
+- 📊 Sales & revenue statistics
+- 🛒 Order management table
+- 👥 User tracking overview
+- 📦 Product summary cards
+- 🎨 Clean and modern UI design
+- ⚡ Fast and lightweight frontend
+
+---
+
+## 🖥️ Dashboard Sections
+
+- 📈 Stats Cards (Revenue, Orders, Users, Products)
+- 📋 Recent Orders Table
+- 🎯 Status indicators (Delivered / Pending)
+
+---
+
+## 🛠️ Tech Stack
+
+- React JS
+- CSS3 (Custom Styling)
+- JavaScript (ES6+)
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repo
+```bash
+git clone https://github.com/your-username/ecommerce-dashboard.git.
