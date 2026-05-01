@@ -38,13 +38,11 @@ It provides an overview of key business metrics like revenue, orders, users, and
 - 🎯 Status indicators (Delivered / Pending)
 
 ---
-
 ## 🛠️ Tech Stack
-
 - React JS
-- CSS3 (Custom Styling)
 - JavaScript (ES6+)
-
+- CSS3 (Custom Styling)
+- Tailwind CSS
 ---
 
 ## 🚀 Getting Started
