@@ -11,7 +11,7 @@ export default function Home() {
       .then(res => res.json())
       .then(data => setProducts(data));
   }, []);
-
+//text
   const addToCart = (p) => setCart([...cart, p]);
 
   const filtered = products.filter(p =>
