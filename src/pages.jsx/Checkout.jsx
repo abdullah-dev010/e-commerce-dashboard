@@ -1,4 +1,5 @@
 export default function Checkout(){
+
   return (
     <div className="p-10 max-w-md mx-auto">
       <h1 className="text-xl font-bold">Checkout</h1>
